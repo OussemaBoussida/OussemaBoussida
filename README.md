@@ -21,7 +21,7 @@
 ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-Scripting-green)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-Design-blue)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-Design-orange)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-Design-blue)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-Video%20Editing-purple)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-Video%20Editing-blue)
 ---
 📰 Certifications:
