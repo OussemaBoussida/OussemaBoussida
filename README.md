@@ -16,6 +16,8 @@
 ![HTML](https://img.shields.io/badge/HTML-Web%20Development-orange)
 ![CSS](https://img.shields.io/badge/CSS-Web%20Development-blue)
 ![jQuery](https://img.shields.io/badge/jQuery-Web%20Development-blue)
+![Oracle](https://img.shields.io/badge/Oracle-Database-red)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
 ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-Scripting-green)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-Design-blue)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-Design-orange)
