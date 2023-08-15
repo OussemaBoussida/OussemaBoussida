@@ -19,6 +19,7 @@
 [![jQuery](https://img.shields.io/badge/jQuery-Web%20Development-blue?logo=jquery)](https://jquery.com/)
 [![Oracle](https://img.shields.io/badge/Oracle-Database-red?logo=oracle)](https://www.oracle.com/database/)
 [![MySQL](https://img.shields.io/badge/MySQL-Database-red?logo=mysql)](https://www.mysql.com/)
+[![Symfony](https://img.shields.io/badge/Symfony-Framework-black?logo=symfony)](https://symfony.com/)
 [![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-Scripting-green)](https://en.wikipedia.org/wiki/Shell_script)
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-Design-blue?logo=adobe-photoshop)](https://www.adobe.com/products/photoshop.html)
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-Design-orange?logo=adobe-illustrator)](https://www.adobe.com/products/illustrator.html)
