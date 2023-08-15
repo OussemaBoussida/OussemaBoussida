@@ -2,6 +2,7 @@
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/oussema-boussida/)
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook)](https://www.facebook.com/oussema.boussida.3)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-ff69b4?logo=instagram)](https://www.instagram.com/oussemabou_/)
 ---
 
 💻 Tech Stack:
@@ -20,4 +21,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-Design-orange)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-Design-blue)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-Video%20Editing-blue)
-
+---
+📰 Certifications:
+---
+[![SoloLearn Kotlin Certificate](https://img.shields.io/badge/SoloLearn-Kotlin%20Certificate-34A853?logo=sololearn)](https://www.sololearn.com/certificates/CT-FIA8YJ9D)
