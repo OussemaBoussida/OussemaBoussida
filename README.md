@@ -1,6 +1,7 @@
 🌐 Socials: 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/oussema-boussida/)
+[![Discord](https://img.shields.io/badge/Discord-Profile-blue?logo=discord)](https://discordapp.com/users/#7483)
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook)](https://www.facebook.com/oussema.boussida.3)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-ff69b4?logo=instagram)](https://www.instagram.com/oussemabou_/)
 ---
