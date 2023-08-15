@@ -25,3 +25,8 @@
 📰 Certifications:
 ---
 [![SoloLearn Kotlin Certificate](https://img.shields.io/badge/SoloLearn-Kotlin%20Certificate-34A853?logo=sololearn)](https://www.sololearn.com/certificates/CT-FIA8YJ9D)
+---
+🔍 Curriculum Vitae:
+---
+[![Download CV](https://img.shields.io/badge/Download-CV-brightgreen)](https://cvdesignr.com/p/64cc24989f1d4)
+---
