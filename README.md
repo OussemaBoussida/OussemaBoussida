@@ -32,4 +32,3 @@
 🔍 Curriculum Vitae:
 ---
 [![Download CV](https://img.shields.io/badge/Download-CV-brightgreen)](https://cvdesignr.com/p/64cc24989f1d4)
----
