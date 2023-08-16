@@ -5,6 +5,7 @@
 💻 Tech Stack:
 ---
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Lightroom Badge](https://img.shields.io/badge/adobe%20lightroom-%2331A8FF.svg?style=for-the-badge&logo=adobelightroom&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-purple.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%230076D6.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
@@ -14,7 +15,7 @@
 [![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)](https://www.oracle.com/java/)
 [![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)](https://www.php.net/)
+[![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php)](https://www.php.net/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony)](https://symfony.com/)
 [![jQuery](https://img.shields.io/badge/jQuery-blue?style=for-the-badge&logo=jquery)](https://jquery.com/)
@@ -22,4 +23,6 @@
 [![MySQL](https://img.shields.io/badge/MySQL-red?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 [![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)](https://www.oracle.com/database/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu)](https://ubuntu.com/)
+![Visual Studio Code Badge](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 ---
